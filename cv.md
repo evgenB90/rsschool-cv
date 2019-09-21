@@ -7,8 +7,7 @@
 ### 3. My goal is to become a senior in development, to achieve in English Intermediate B2. I train well, as well as train myself, it is important for me to take the full JavaScript / Front-end Course from The Rolling Scopes.
 ### 4. Skills creating simple js scripts
 ### 5. js code example, script with riddles
-'''<html charset utf-8>
-<script>
+'''<script>
 	var name=(prompt("Hey, can we play some riddles? Write your name so I can handle it..."));
 	var answer=(0);
 	var riddles=(prompt(name+" What has a face and two hands but no arms or legs?"));
