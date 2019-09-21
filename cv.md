@@ -40,5 +40,8 @@ var riddles=(prompt(name+" If I drink, I die. If I eat, I am fine. What am I?"))
  	alert(name+" Congratulations you have correctly guessed the riddle yet, click OK to continue))");
  } else
  	alert(name+" Unfortunately you have not solved the puzzle, to continue, click OK");
- 	alert(name+" you guessed riddles "+answer+" it was a pleasure to play with you!");
-    ``` 
+ 	alert(name+" you guessed riddles "+answer+" it was a pleasure to play with you!"); 
+	 ```
+
+### 6. Experience gained from taking courses in js, creating a script to calculate interest, playing puzzles, and playing roulette 
+### 7. Training in geekbrains in programming courses
